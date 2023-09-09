@@ -24,7 +24,7 @@ class Header extends Component {
     return (
       <div className="header">
         <div href="#" className="logo">
-          PEER CODER
+          CODE TOGETHER
         </div>
         <button className="copy-url" onClick={() => this.handleClick()}>
           ROOM URL
